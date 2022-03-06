@@ -1,0 +1,8 @@
+.build
+.mbed
+projectfiles
+
+BUILD
+mbed-os
+mbed-os.lib
+
